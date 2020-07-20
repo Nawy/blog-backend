@@ -1,0 +1,12 @@
+micronaut:
+  application:
+    name: blogTest
+vertx:
+  pg:
+    client:
+      port: 32768
+      host: localhost
+      database: postgres
+      user: postgres
+      password: postgres
+      maxSize: 5

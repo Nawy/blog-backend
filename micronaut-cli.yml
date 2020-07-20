@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.ie
+testFramework: kotlintest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, docker, file-watch, graalvm, gradle, http-client, kotlin, kotlintest, ktor, logback, readme, shade, yaml]
